@@ -7,3 +7,4 @@ Starting from zero to hero!
 | Day | Topic | Done |
 |-----|-------|------|
 | Day 1 | Setting up GitHub repo | ✅ |
+| Day 3 | Functions & Loops | ⏳ |
