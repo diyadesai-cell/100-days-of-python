@@ -11,3 +11,4 @@ Starting from zero to hero! Following my goal of mastering AI and Data Engineeri
 | Day 3 | Data Types | ✅ |
 | Day 4 | User Input & Basic Interaction | ✅ |
 | Day 5 | String Basics | ✅ |
+| Day 6 | String Methods | ✅ |
