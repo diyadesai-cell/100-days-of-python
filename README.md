@@ -13,3 +13,4 @@ Starting from zero to hero! Following my goal of mastering AI and Data Engineeri
 | Day 5 | String Basics | ✅ |
 | Day 6 | String Methods | ✅ |
 | Day 7 | Arithmetic Operators | ✅ |
+| Day 8 | Comparison Operators | ✅ |
