@@ -15,3 +15,4 @@ Starting from zero to hero! Following my goal of mastering AI and Data Engineeri
 | Day 7 | Arithmetic Operators | ✅ |
 | Day 8 | Comparison Operators | ✅ |
 | Day 9 | Logical Operators | ✅ |
+| Day 10 | If / Elif / Else Statements | ✅ |
