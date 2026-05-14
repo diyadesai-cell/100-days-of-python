@@ -18,3 +18,4 @@ Starting from zero to hero! Following my goal of mastering AI and Data Engineeri
 | Day 10 | If / Elif / Else Statements | ✅ |
 | Day 11 | Nested Conditions | ✅ |
 | Day 12 | While Loops | ✅ |
+| Day 13 | For Loops | ✅ |
