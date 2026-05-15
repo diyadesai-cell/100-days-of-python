@@ -19,3 +19,4 @@ Starting from zero to hero! Following my goal of mastering AI and Data Engineeri
 | Day 11 | Nested Conditions | ✅ |
 | Day 12 | While Loops | ✅ |
 | Day 13 | For Loops | ✅ |
+| Day 14 | range() function | ✅ |
