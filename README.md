@@ -21,3 +21,4 @@ Starting from zero to hero! Following my goal of mastering AI and Data Engineeri
 | Day 13 | For Loops | ✅ |
 | Day 14 | range() function | ✅ |
 | Day 15 | Break & Continue | ✅ |
+| Day 16 | Lists | ✅ |
