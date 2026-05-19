@@ -23,3 +23,4 @@ Starting from zero to hero! Following my goal of mastering AI and Data Engineeri
 | Day 15 | Break & Continue | ✅ |
 | Day 16 | Lists | ✅ |
 | Day 17 | List Methods | ✅ |
+| Day 18 | Tuples | ✅ |
