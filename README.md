@@ -25,3 +25,5 @@ Starting from zero to hero! Following my goal of mastering AI and Data Engineeri
 | Day 17 | List Methods | ✅ |
 | Day 18 | Tuples | ✅ |
 | Day 19 | Mini Project Day | ✅ |
+| Day 20 | Phase 1 Final Review | ✅ |
+| Day 21 | Dictionaries | ✅ |
