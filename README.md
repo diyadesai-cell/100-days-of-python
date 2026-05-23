@@ -27,3 +27,4 @@ Starting from zero to hero! Following my goal of mastering AI and Data Engineeri
 | Day 19 | Mini Project Day | ✅ |
 | Day 20 | Phase 1 Final Review | ✅ |
 | Day 21 | Dictionaries | ✅ |
+| Day 22 | Dictionary Methods | ✅ |
