@@ -28,3 +28,4 @@ Starting from zero to hero! Following my goal of mastering AI and Data Engineeri
 | Day 20 | Phase 1 Final Review | ✅ |
 | Day 21 | Dictionaries | ✅ |
 | Day 22 | Dictionary Methods | ✅ |
+| Day 23 | Sets | ✅ |
