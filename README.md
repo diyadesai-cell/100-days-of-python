@@ -29,3 +29,4 @@ Starting from zero to hero! Following my goal of mastering AI and Data Engineeri
 | Day 21 | Dictionaries | ✅ |
 | Day 22 | Dictionary Methods | ✅ |
 | Day 23 | Sets | ✅ |
+| Day 24 | Functions | ✅ |
