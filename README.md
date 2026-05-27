@@ -31,3 +31,4 @@ Starting from zero to hero! Following my goal of mastering AI and Data Engineeri
 | Day 23 | Sets | ✅ |
 | Day 24 | Functions | ✅ |
 | Day 25 | Parameters & Arguments | ✅ |
+| Day 26 | Return Values | ✅ |
