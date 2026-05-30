@@ -34,3 +34,4 @@ Starting from zero to hero! Following my goal of mastering AI and Data Engineeri
 | Day 26 | Return Values | ✅ |
 | Day 27 | *args & **kwargs Deep Dive | ✅ |
 | Day 28 | Scope & Globals| ✅ |
+| Day 29 | Lambda Functions | ✅ |
