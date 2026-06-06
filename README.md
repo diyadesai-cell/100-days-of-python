@@ -40,3 +40,4 @@ Starting from zero to hero! Following my goal of mastering AI and Data Engineeri
 | Day 32 | Nested Loops | ✅ |
 | Day 33 | String Formatting | ✅ |
 | Day 34 | f-strings Deep Dive | ✅ |
+| Day 35 | Exception Handling (try/except) | ✅ |
