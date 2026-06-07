@@ -41,3 +41,4 @@ Starting from zero to hero! Following my goal of mastering AI and Data Engineeri
 | Day 33 | String Formatting | ✅ |
 | Day 34 | f-strings Deep Dive | ✅ |
 | Day 35 | Exception Handling (try/except) | ✅ |
+| Day 36 | try/except/finally Deep Dive | ✅ |
