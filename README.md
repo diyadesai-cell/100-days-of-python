@@ -43,3 +43,4 @@ Starting from zero to hero! Following my goal of mastering AI and Data Engineeri
 | Day 35 | Exception Handling (try/except) | ✅ |
 | Day 36 | try/except/finally Deep Dive | ✅ |
 | Day 37 | Modules & Imports | ✅ |
+| Day 38 | math Module Deep Dive | ✅ |
