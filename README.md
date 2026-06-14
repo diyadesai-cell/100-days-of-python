@@ -45,3 +45,4 @@ Starting from zero to hero! Following my goal of mastering AI and Data Engineeri
 | Day 37 | Modules & Imports | ✅ |
 | Day 38 | math Module Deep Dive | ✅ |
 | Day 39 | random Module Deep Dive | ✅ |
+| Day 40 | datetime Module Deep Dive | ✅ |
