@@ -47,3 +47,4 @@ Starting from zero to hero! Following my goal of mastering AI and Data Engineeri
 | Day 39 | random Module Deep Dive | ✅ |
 | Day 40 | datetime Module Deep Dive | ✅ |
 | Day 41 | os Module | ✅ |
+| Day 42 | Recursion Basics | ✅ |
