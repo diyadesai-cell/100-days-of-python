@@ -50,3 +50,5 @@ Starting from zero to hero! Following my goal of mastering AI and Data Engineeri
 | Day 42 | Recursion Basics | ✅ |
 | Day 43 | Recursion Problems Deep Dive | ✅ |
 | Day 44 | Higher-Order Functions | ✅ |
+| Day 45 | map, filter, reduce Deep Dive | ✅ |
+| Day 46 | zip & enumerate | ✅ |
