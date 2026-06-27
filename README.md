@@ -53,4 +53,4 @@ Starting from zero to hero! Following my goal of mastering AI and Data Engineeri
 | Day 45 | map, filter, reduce Deep Dive | ✅ |
 | Day 46 | zip & enumerate | ✅ |
 | Day 47 | Iterators | ✅ |
-
+| Day 48 | Generators | ✅ |
